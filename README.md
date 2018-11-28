@@ -1,6 +1,6 @@
 # SIP
 Sistema Integrado de Planejamento
-#Autor
+# Autor
 Arilmar Aguiar
-#License
+# License
 Todos os direitos reservados
